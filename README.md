@@ -87,3 +87,11 @@ const fetchTours = async () => {
 
 ![alt text](image.png)
 
+## Live Demo
+[View Demo on Netlify](https://snapixtours.netlify.app/)
+
+## License
+- This project is open source and available under the MIT License.
+
+## Happy coding!
+
